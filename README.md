@@ -1,4 +1,4 @@
-# Curso online y gratis de SEO. Iniciativa de hackovid.cat
+# Curso online y gratis de SEO. Evento: hackovid.cat
 - Proyecto en Wordpress adaptado a SEO + AMP
 
 # WordPress
