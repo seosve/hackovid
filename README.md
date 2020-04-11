@@ -1,5 +1,8 @@
-# hackovid
-- Versión de Wordpress: 5.3.2
+# Curso online y gratis de SEO. Iniciativa de hackovid.cat
+- Proyecto en Wordpress adaptado a SEO + AMP
+
+# WordPress
+- Versión: 5.3.2
 
 # Módulos utilizados
 - AMP
