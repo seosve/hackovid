@@ -4,7 +4,9 @@
 
 ## hackovid.cat
 - Solución seleccionada: Reactivar el comercio de proximidad.
-- Categorías recomendadas: Aprender desde casa, volver al trabajo.
+- Categorías recomendadas: 
+  - Aprender desde casa.
+  - Volver al trabajo.
 - ODS:
   - Educación de calidad.
   - Trabajo decente y crecimiento económico.
