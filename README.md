@@ -1,5 +1,6 @@
 # Curso online y gratis de SEO. Evento: hackovid.cat
-- Proyecto en Wordpress adaptado a SEO + AMP
+- Proyecto en Wordpress adaptado a SEO + SEO en YouTube + AMP
+- [Enlace al proyecto](https://www.seosve.com/cursos/seo-posicionamiento-web/)
 
 # WordPress
 - Versión: 5.3.2
