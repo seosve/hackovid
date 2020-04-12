@@ -34,9 +34,8 @@
 # Adaptación a SEO
 - Estudio de palabras clave para la página principal del curso + cada una de las lecciones.
 - Adaptación de contenidos para adecuarse a las búsquedas de los usuarios en Google. Se ha realizado también una adecuación  de contenidos SEO para YouTube.
+- Diseño responsive + AMP.
 - La página principal del curso incluye enlaces a los vídeos de cada lección y a los apuntes para seguir las clases.
-- Dudas en las secciones de comentarios de cada lección, tanto en YouTube como en WordPress.
-- Tanto los vídeos de YouTube como las lecciones dan la opción al alumno para que pregunte dudas en la sección de comentarios. Esto 1º nos ayuda con el engagement y 2º mejora también el posicionamiento del curso.
 - Tanto los vídeos de YouTube como las lecciones dan la opción al alumno para que pregunte dudas en la sección de comentarios. Esto 1º nos ayuda con el engagement y 2º mejora también el posicionamiento del curso.
 
 # Proyecto educativo y filosofía docente
