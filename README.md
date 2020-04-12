@@ -35,6 +35,7 @@
 
 ## Adaptación a SEO
 - Estudio de palabras clave para la página principal del curso + cada una de las lecciones.
+- El curso está en castellano para llegar a un número mayor de usuarios (incluso en Cataluña). Los usuarios catalanoparlantes buscan más en castellano. Se ha comprobado con la herramienta de búsqueda para palabras clave de Google Ads, por lo que esta decisión está basada en datos.
 - Adaptación de contenidos para adecuarse a las búsquedas de los usuarios en Google. Se ha realizado también una adecuación  de contenidos SEO para YouTube.
 - Diseño responsive + AMP.
 - La página principal del curso incluye enlaces a los vídeos de cada lección y a los apuntes para seguir las clases.
