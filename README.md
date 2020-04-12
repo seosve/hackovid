@@ -1,4 +1,4 @@
-# Curso online y gratis de SEO.
+# Curso SEO – Posicionamiento Web para PYMEs, autónomos y desempleados
 - Proyecto en Wordpress adaptado a SEO + SEO en YouTube + AMP
 - [Enlace al proyecto](https://www.seosve.com/cursos/seo-posicionamiento-web/)
 
